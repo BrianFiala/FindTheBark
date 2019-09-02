@@ -1,0 +1,26 @@
+.add-park {
+  border: $panelBorderColor;
+  margin-bottom: 3.2em;
+  .panel-heading {
+    font-family: 'Indie Flower', cursive;
+    text-shadow: 2px 2px 3px black;
+    background-color: $panelHeaderBackgroundColor;
+    margin: 0;
+    font-size: 2em;
+    color: $panelHeaderFontColor;
+    border: 3px solid $panelBorderColor;
+  }
+  .panel-body {
+    border: 3px solid $panelBorderColor;
+  }
+  .button-container {
+    display: flex;
+    justify-content: center;
+  }
+  .btn-success {
+    margin-top: 1.5em;
+    align-self: center;
+    width: 50%;
+    border: 2px solid $navbarBackgroundColor;
+  }
+}

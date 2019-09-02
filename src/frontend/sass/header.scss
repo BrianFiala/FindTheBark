@@ -1,0 +1,76 @@
+.page-header {
+  padding-top: 5em;
+  background: url(img/mobile-dog-header.jpg) no-repeat;
+  margin: 0;
+  background-size: cover;
+  background-position: center top;
+
+  h1 {
+    color: $headerFontColor;
+    font-family: 'Indie Flower', cursive;
+    padding-left: 0.7em;
+    text-shadow: 2px 2px 3px black;
+  }
+
+  h2 {
+    color: $headerFontColor;
+    font-family: 'Indie Flower', cursive;
+    font-size: 1em;
+    padding-left: 2em;
+    text-shadow: 2px 2px 3px black;
+  }
+
+  .buttons {
+    padding-left: 2em;
+
+    .sign-out-button {
+      padding: .3em .5em;
+    }
+  }
+}
+
+.navbar {
+  list-style: none;
+  background-color: $navbarBackgroundColor;
+  font-family: 'Indie Flower', cursive;
+  text-shadow: 2px 2px 3px black;
+  font-size: 1.5em;
+  margin-top: -0.2em;
+
+  ul li {
+    a:hover {
+      transition: all .4s linear;
+    }
+
+    a {
+      color: $headerFontColor;
+    }
+  }
+}
+
+@media screen and (min-width: 35em) {
+  .page-header {
+    background: url(img/dog-header.jpg) no-repeat;
+    background-size: cover;
+    background-position: top right;
+  }
+}
+
+@media screen and (min-width: 70em) {
+  .page-header {
+    background-position: center top;
+    height: 20em;
+
+    h1 {
+      font-size: 5em;
+    }
+
+    h2 {
+      font-size: 2em;
+    }
+
+    .buttons {
+      padding-left: 4em;
+    }
+  }
+}

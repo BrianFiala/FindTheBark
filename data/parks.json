@@ -1,0 +1,302 @@
+[
+  {
+    "name": "Shaw Dog Park",
+    "street": "1673 11th St NW",
+    "city": "Washington",
+    "state": "DC",
+    "zipcode": "20001",
+    "openHours": "7am",
+    "closingHours": "10pm",
+    "description": "Great park with plenty of room to run. There are water bowls, and a smaller area for smaller dogs."
+  },
+  {
+    "name": "Lansburgh Dog Park",
+    "street": "1098 Delaware Ave SW",
+    "city": "Washington",
+    "state": "DC",
+    "zipcode": "20024",
+    "openHours": "7am",
+    "closingHours": "7pm",
+    "description": " Nice dog park with excellent facilities. There's a large and small dog area, water fountains, and poop bags in case you didn't bring any. The ground is covered in gravel, not grass"
+  },
+  {
+    "name": "Kingsman Field Dog Park",
+    "street": "D St NE",
+    "city": "Washington",
+    "state": "DC",
+    "zipcode": "20002",
+    "openHours": "",
+    "closingHours": "",
+    "description": "Nice clean and friendly dog park. Dog owners and pets alike were great to be around, but like most DC ones it is a fine gravel that gets very messy. Also, very little shade or cover."
+  },
+  {
+    "name": "S Street Dog Park",
+    "street": "17th & S Sts., NW",
+    "city": "Washington",
+    "state": "DC",
+    "zipcode": "20009",
+    "openHours": "7am",
+    "closingHours": "8pm",
+    "description": "This compact, fenced-in dog run is made from artificial turf & features benches for human visitors"
+  },
+  {
+    "name": "Newark Street Dog Park",
+    "street": "Newark St NW and 39th St NW",
+    "city": "Washington",
+    "state": "DC",
+    "zipcode": "20008",
+    "openHours": "",
+    "closingHours": "",
+    "description": "Great park away from the busy parts of the city.  There are frequently many dogs around, and a separate area for smaller dogs who don't like to play rough. Also, there is a park for children next door with picnic tables."
+  },
+  {
+    "name": "Columbia Heights Dog Park",
+    "street": "1150 Park Rd NW",
+    "city": "Washington",
+    "state": "DC",
+    "zipcode": "20010",
+    "openHours": "",
+    "closingHours": "",
+    "description": "Great unofficial dog park, has some spaces where small dogs can escape underneath and doesn't have double gate system so just need to keep a close eye on smaller dogs. Also RedRocks across the street provides water to refill water bowls."
+  },
+  {
+    "name": "Upshur Dog Park",
+    "street": "4300 Arkansas Ave NW",
+    "city": "Washington",
+    "state": "DC",
+    "zipcode": "20011",
+    "openHours": "",
+    "closingHours": "",
+    "description": "There is a large open area for the dogs of all sizes. Only issue is the gates can be a little difficult to latch shut. "
+  },
+  {
+    "name": "Shirlington Dog Park",
+    "street": "2754-2798 S Oakland St",
+    "city": "Arlington",
+    "state": "VA",
+    "zipcode": "22206",
+    "openHours": "6am",
+    "closingHours": "8pm",
+    "description": "Great off leash dog park set in the middle of a wooded park. There is a stream running through it and the dogs love to run and play in the water or in the trees.  Note that this dog park only has natural barriers and no fences .  It is set below the street line with natural barriers around it."
+  },
+  {
+    "name": "Clarendon Dog Park",
+    "street": "1299 N Herndon St",
+    "city": "Arlington",
+    "state": "VA",
+    "zipcode": "22201",
+    "openHours": "7am",
+    "closingHours": "9pm",
+    "description": "Clarendon is a sizable park in the middle of Clarendon. There's abundant parking. The ground is covered in sand, which can get very dirty when the fountain is on. There are water bowls provided, but no shade."
+  },
+  {
+    "name": "Langdon Dog Park",
+    "street": "2815 20th St NE",
+    "city": "Washington",
+    "state": "DC",
+    "zipcode": "20018",
+    "openHours": "",
+    "closingHours": "",
+    "description": ""
+  },
+  {
+    "name": "Francis Playground Dog Park",
+    "street": "25th St NW",
+    "city": "Washington",
+    "state": "DC",
+    "zipcode": "20037",
+    "openHours": "",
+    "closingHours": "",
+    "description": ""
+  },
+  {
+    "name": "Utah Dog Park",
+    "street": "3191 S Utah St",
+    "city": "Arlington",
+    "state": "VA",
+    "zipcode": "22206",
+    "openHours": "12am",
+    "closingHours": "12am",
+    "description": "This popular park is fairly large, but it is still easy to keep an eye on your dog. There are frequently other owners about with their dogs. It has gravel ground cover, and is a bit sandy, so your dog may need a bath after."
+  },
+  {
+    "name": "Dog Run Park at Carlyle",
+    "street": "1108 Jefferson St",
+    "city": "Alexandria",
+    "state": "VA",
+    "zipcode": "22314",
+    "openHours": "8am",
+    "closingHours": "sunset",
+    "description": "A great place for dogs to play. There is a smaller pea gravel park for the little dogs or dogs who don't want to run as much, and a big grassy park with new grass and sprinklers as of July 2016. Water fountains and bowls are provided for your dogs. Depending on the season you'll want to bring bug spray as the mosquitos and gnats get out of control."
+  },
+  {
+    "name": "Duke Street Dog Park",
+    "street": "Duke St",
+    "city": "Alexandria",
+    "state": "VA",
+    "zipcode": "22312",
+    "openHours": "8am",
+    "closingHours": "7pm",
+    "description": "This off-leash public dog park provides a large, fenced-in grassy area for pets to roam freely. Lacks immediate close parking but it has nice picnic tables to sit at. Take the ramp off of duke street over the bridge to the parking lot in the park. There is lots of grass, and tennis balls laying around with which your dogs can play."
+  },
+  {
+    "name": "Ben Brennan Dog Park",
+    "street": "4800 Brenman Park Dr",
+    "city": "Alexandria",
+    "state": "VA",
+    "zipcode": "22304",
+    "openHours": "6am",
+    "closingHours": "10pm",
+    "description": "This quaint little park is not large, but perfect for smaller dogs. Some have heard locals call it the puppy park. For larger dogs, Duke Street Dog Park across the street is a more appropriate place to play."
+  },
+  {
+    "name": "Meridian Hill Park",
+    "street": "2400 15th St NW",
+    "city": "Washington",
+    "state": "DC",
+    "zipcode": "20009",
+    "openHours": "7am",
+    "closingHours": "7pm",
+    "description": "Meridian Hill Park is a structured urban park located in the Washington, D.C. neighborhood of Columbia Heights; it also abuts the nearby neighborhood of Adams Morgan. The park was designed and built between 1912 and 1940."
+  },
+  {
+    "name": "Virginia Avenue Park",
+    "street": "1098 9th St SE",
+    "city": "Washington",
+    "state": "DC",
+    "zipcode": "20003",
+    "openHours": "Sunrise",
+    "closingHours": "Sunset",
+    "description": "Rolling neighborhood green space featuring a community garden, dog run & picnic tables. Some owners have complained the park is not very easily accessible."
+  },
+  {
+    "name": "Lincoln Park",
+    "street": "East Capitol St SE & 12th St SE",
+    "city": "Washington",
+    "state": "DC",
+    "zipcode": "20003",
+    "openHours": "5am",
+    "closingHours": "12am",
+    "description": "Open public green space with statues of Abraham Lincoln & civil rights activist Mary McLeod Bethune."
+  },
+  {
+    "name": "Montrose Park",
+    "street": "3000 R St NW",
+    "city": "Washington",
+    "state": "DC",
+    "zipcode": "20007",
+    "openHours": "Sunrise",
+    "closingHours": "Sunset",
+    "description": "The Montrose Park is a public park, owned by the federal government, located in the 3000 block of R Street, Northwest, Washington, D.C., in the Georgetown neighborhood. It is located between Dumbarton Oaks Park, and Oak Hill Cemetery."
+  },
+  {
+    "name": "Stead Park",
+    "street": "1625 P St NW",
+    "city": "Washington",
+    "state": "DC",
+    "zipcode": "20036",
+    "openHours": "Sunrise",
+    "closingHours": "Sunset",
+    "description": "Stead Park is a 1.5-acre municipal park located in the Dupont Circle neighborhood of Northwest Washington, D.C"
+  },
+  {
+    "name": "Mitchell Park",
+    "street": "23rd St NW & S St NW",
+    "city": "Washington",
+    "state": "DC",
+    "zipcode": "20008",
+    "openHours": "Sunrise",
+    "closingHours": "Sunset",
+    "description": "A neighborhood park with a field & court for multiple sports, plus gardens & walking paths."
+  },
+  {
+    "name": "Stead Park",
+    "street": "2nd St SE & F St SE",
+    "city": "Washington",
+    "state": "DC",
+    "zipcode": "20003",
+    "openHours": "12am",
+    "closingHours": "12am",
+    "description": "This recreational area offers a playground, picnic spots & tennis, basketball & bocce courts."
+  },
+  {
+    "name": "Battery Kemble Park",
+    "street": "Chain Bridge Rd NW",
+    "city": "Washington",
+    "state": "DC",
+    "zipcode": "20016",
+    "openHours": "12am",
+    "closingHours": "12am",
+    "description": "Battery Kemble Park is a park in Northwest Washington D.C., administered by the National Park Service. Battery Kemble was a Union Army defensive site during the Civil War."
+  },
+  {
+    "name": "Volta Park",
+    "street": "1555 34th St NW",
+    "city": "Washington",
+    "state": "DC",
+    "zipcode": "20036",
+    "openHours": "1pm",
+    "closingHours": "8pm",
+    "description": "Lush gardens, a pool & tennis & basketball courts mark this full-block park that dates to 1769."
+  },
+  {
+    "name": "The Park at LeDroit",
+    "street": "Elm St NW & 3rd St NW",
+    "city": "Washington",
+    "state": "DC",
+    "zipcode": "20001",
+    "openHours": "Sunrise",
+    "closingHours": "Sunset",
+    "description": "Quaint green space offering a playground, benches & walking paths, plus a fenced-in area for dogs."
+  },
+  {
+    "name": "Kalorama Recreation Center",
+    "street": "1865 Kalorama Rd NW",
+    "city": "Washington",
+    "state": "DC",
+    "zipcode": "20009",
+    "openHours": "Sunrise",
+    "closingHours": "Sunset",
+    "description": "3-acre park featuring a recreational center, community garden & green space in an urban setting."
+  },
+  {
+    "name": "Crispus Attucks Park",
+    "street": "23 U St NW, Washington",
+    "city": "Washington",
+    "state": "DC",
+    "zipcode": "20001",
+    "openHours": "12am",
+    "closingHours": "12am",
+    "description": "Known for its secluded feel, this popular urban park includes lots of green space, benches & trails."
+  },
+  {
+    "name": "Stanton Park",
+    "street": "23 U St NW, Washington",
+    "city": "Washington",
+    "state": "DC",
+    "zipcode": "20001",
+    "openHours": "12am",
+    "closingHours": "12am",
+    "description": "Known for its secluded feel, this popular urban park includes lots of green space, benches & trails."
+  },
+  {
+    "name": "Marion Park",
+    "street": "E St SE & 5th St SE",
+    "city": "Washington",
+    "state": "DC",
+    "zipcode": "20003",
+    "openHours": "12am",
+    "closingHours": "12am",
+    "description": "Marion Park is a public park named after Revolutionary War leader Francis Marion. It is located at 4th Street, 6th Street, and E Street, Southeast, Washington, D.C., in the Capitol Hill neighborhood."
+  },
+  {
+    "name": "The Yards Park",
+    "street": "355 Water St SE, Washington",
+    "city": "Washington",
+    "state": "DC",
+    "zipcode": "20003",
+    "openHours": "7am",
+    "closingHours": "10pm",
+    "description": "Along a portion of the Anacostia Riverwalk, The Yards Parkt is a waterfront recreation area, boardwalk, and outdoor performance space. It features a popular, large water feature, and a dog run."
+  }
+];

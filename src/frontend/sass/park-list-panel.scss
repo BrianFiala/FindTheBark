@@ -1,0 +1,44 @@
+.parks-list {
+  border: 3px solid $panelBorderColor;
+  border-radius: 10px;
+
+  .panel-heading {
+    background-color: $panelHeaderBackgroundColor;
+    display: flex;
+    color: $panelHeaderFontColor;
+
+    main {
+      width: 50%;
+    }
+
+    ul {
+      padding-left: 0;
+      list-style: none;
+    }
+  }
+}
+.mapMarkerDescription {
+  display: flex;
+  justify-content: space-between;
+  main{
+    margin-right: 3em;
+  }
+}
+.parkListPanelBody {
+  display: flex;
+  justify-content: flex-end;
+
+  main {
+    margin-right: 5em;
+    width: 80%;
+  }
+
+  main button {
+    width: 5em;
+  }
+}
+
+
+.hidden {
+  display: none;
+}
